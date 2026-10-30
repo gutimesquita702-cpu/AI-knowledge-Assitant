@@ -1,0 +1,32 @@
+
+# Chaves e variáveis de ambiente
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações locais do VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Testes e cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+documents/
